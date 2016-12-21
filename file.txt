@@ -30,3 +30,6 @@ http://stackoverflow.com/questions/38695515/can-not-pull-push-images-after-updat
 
 
 error regarding to insecure registry added DOCKER_OPTS="--insecure-registry=docker-registry:5000" in etc/default/docker
+
+
+edited file
